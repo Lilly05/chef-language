@@ -43,6 +43,6 @@ it under the same terms as Perl itself.
 
 Für enea
 --------
-Your recipe is in the recipes folder. You can execute it with following command: 
+Hans gschafft lol. Du chasch es so usführe:
 
     perl script/chef recipes/enea.chef
